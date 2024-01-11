@@ -1,0 +1,17 @@
+/**
+ * UPTx - Fundamentos de Programaci¢n Orientada a Objetos* Pr ctica No. 1   Grupo: 5H
+* Pr ctica No. 1   Grupo: 5H
+ * Programa: Practica 1
+* Objetivo: Mi primer programa
+ * Integrantes: Julio Cesar Montiel Molina, Lizbet Delgado Tehozol, Isai Ulises Meza Ramiro, Joseluis Moreno Ramos.
+ * Modificaci¢n: 09/01/2024
+ */
+
+//Main
+public class Main {
+    public static void main(String[] args) {
+//Mensaje de bienvenida
+        System.out.println("\nHello world :V ");
+
+    }
+}
